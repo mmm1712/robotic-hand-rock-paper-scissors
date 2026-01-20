@@ -142,9 +142,3 @@ The Rock–Paper–Scissors game is implemented as a real-time interaction betwe
    - Start the game
    - Return to the home screen
    - Replay another round
-
-10. **Continuous operation**  
-    The system runs in a continuous loop with:
-    - Non-blocking logic
-    - Interrupt-driven input
-    - Real-time visual and mechanical feedback
