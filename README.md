@@ -29,7 +29,7 @@ The setup combines an embedded STM32 system, custom user interface, robotic actu
 
 ### Project photos
 
-![System overview](images/game.jpg)  
+<img src="images/game.jpg" width="350">
 ## Software Stack
 
 This project combines embedded firmware running on an STM32 microcontroller with a host-side computer vision application written in Python.
